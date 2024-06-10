@@ -41,3 +41,64 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+answers.md 
+1. Software engineering is the application of engineering principles to the design, development, maintenance, testing, and evaluation of software and systems that make software operational.
+2. Software engineering differs from traditional programming in the following ways;
+1 Traditional programming focuses on writing code to solve specific problems while software engineering included analysis, design, development testing and deployment of complex systems
+2. Methodology for the former is limited to informality with adhoc processes while for the later, it employs formalized processes like Agile and Waterfall with extensive documentation
+
+SDLC phases;
+
+Planning:
+
+Define project goals and objectives.
+Assess feasibility and resources.
+Create a project plan and timeline.
+Requirements Analysis:
+
+Gather and document user and system requirements.
+Create requirement specifications.
+Identify stakeholders and their needs.
+
+Design:
+
+Design system architecture and components.
+Create detailed design documents.
+Plan the database, user interface, and other system elements.
+
+Implementation (Coding):
+
+Convert design specifications into code.
+Use appropriate programming languages and tools.
+Develop the software in modules or units.
+
+Testing:
+
+Conduct unit testing, integration testing, and system testing.
+Identify and fix defects or bugs.
+Ensure the software meets the specified requirements.
+
+Deployment:
+
+Install and configure the software in the target environment.
+Conduct user training and support.
+Roll out the software to end-users.
+
+Maintenance:
+
+Monitor and fix issues post-deployment.
+Perform updates and enhancements.
+Ensure long-term functionality and performance.
+
+Key Differences Summarized:
+Agile is adaptive, iterative, and customer-centric, allowing for continuous feedback and incremental improvements.
+Waterfall is a structured, linear approach that emphasizes thorough planning and documentation before moving sequentially through phases.
+Key Similarities:
+Both aim to deliver high-quality software that meets user needs.
+Both require thorough understanding and planning at the outset, though Agile is more flexible in handling changes.
+
+Requirements engineering is a systematic process involved in defining, documenting, and maintaining the requirements for a software system.
+
+git commit m-"complete assignment"
+
+git push origin main
